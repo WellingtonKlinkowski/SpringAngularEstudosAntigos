@@ -2,7 +2,6 @@ package com.klinkowski.spring.projetogodev.serviceTests;
 
 import com.klinkowski.spring.projetogodev.repository.AlunosRepository;
 import com.klinkowski.spring.projetogodev.service.AlunosService;
-import org.assertj.core.api.Assert;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;

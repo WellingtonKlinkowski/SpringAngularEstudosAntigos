@@ -1,11 +1,11 @@
 package com.klinkowski.spring.projetogodev.service;
 
-import com.klinkowski.spring.projetogodev.serviceTests.Alunos;
-import com.klinkowski.spring.projetogodev.serviceTests.Materia;
-import com.klinkowski.spring.projetogodev.serviceTests.Matricula;
 import com.klinkowski.spring.projetogodev.repository.AlunosRepository;
 import com.klinkowski.spring.projetogodev.repository.MateriaRepository;
 import com.klinkowski.spring.projetogodev.repository.MatriculaRepository;
+import com.klinkowski.spring.projetogodev.serviceTests.Alunos;
+import com.klinkowski.spring.projetogodev.serviceTests.Materia;
+import com.klinkowski.spring.projetogodev.serviceTests.Matricula;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

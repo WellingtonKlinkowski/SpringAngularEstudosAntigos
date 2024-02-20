@@ -1,7 +1,7 @@
 package com.klinkowski.spring.projetogodev.service;
 
-import com.klinkowski.spring.projetogodev.serviceTests.Alunos;
 import com.klinkowski.spring.projetogodev.repository.AlunosRepository;
+import com.klinkowski.spring.projetogodev.serviceTests.Alunos;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

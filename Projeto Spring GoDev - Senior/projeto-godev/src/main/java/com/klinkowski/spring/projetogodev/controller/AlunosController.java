@@ -1,7 +1,7 @@
 package com.klinkowski.spring.projetogodev.controller;
 
-import com.klinkowski.spring.projetogodev.serviceTests.Alunos;
 import com.klinkowski.spring.projetogodev.service.AlunosService;
+import com.klinkowski.spring.projetogodev.serviceTests.Alunos;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

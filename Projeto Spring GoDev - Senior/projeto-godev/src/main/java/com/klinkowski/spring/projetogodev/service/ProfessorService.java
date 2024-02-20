@@ -1,7 +1,7 @@
 package com.klinkowski.spring.projetogodev.service;
 
-import com.klinkowski.spring.projetogodev.serviceTests.Professor;
 import com.klinkowski.spring.projetogodev.repository.ProfessorRepository;
+import com.klinkowski.spring.projetogodev.serviceTests.Professor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
