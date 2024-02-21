@@ -21,5 +21,6 @@ public class Todo {
     private String nomeTarefa;
     private String descricaoTarefa;
     private boolean situacaoTarefa;
+    @Enumerated
     private TipoPrioridade prioridadeTarefa;
 }
