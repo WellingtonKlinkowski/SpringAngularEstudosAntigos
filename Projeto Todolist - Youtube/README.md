@@ -15,6 +15,11 @@ O projeto será separado em Entities, DTO's, Repositories, Services e Controller
 Ao longo do projeto irei decidir se ultilizarei algum tipo de teste, como jUnit ou Mockito.<br/><br/>
 Fique a vontade para dar seu feedback em umas das redes sociais acima.
 
+## Requisições
+
+Na pasta do projeto está as requisições usadas.
+Todas testadas e retornando status 200 ok.
+
 ## Video
 
 <a href="https://www.youtube.com/watch?v=IjProDV001o&ab_channel=GiulianaBezerra" target="_blank">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>

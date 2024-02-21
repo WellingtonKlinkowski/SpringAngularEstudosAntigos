@@ -35,7 +35,7 @@ public class TodoService {
     }
 
     public List<Todo> getAllTodos(){
-        Sort sort = Sort.by("prioridadeTarefa.getOrdemPrioridade()").ascending().and(
+        Sort sort = Sort.by("prioridadeTarefa").ascending().and(
                 Sort.by("nomeTarefa").ascending()
         );
 
