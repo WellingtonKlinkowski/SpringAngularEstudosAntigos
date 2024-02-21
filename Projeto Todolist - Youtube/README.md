@@ -15,9 +15,11 @@ O projeto será separado em Entities, DTO's, Repositories, Services e Controller
 Ao longo do projeto irei decidir se ultilizarei algum tipo de teste, como jUnit ou Mockito.
 Fique a vontade para dar seu feedback em umas das redes sociais acima.
 
+## Video
+
+<a href="https://www.youtube.com/watch?v=IjProDV001o&ab_channel=GiulianaBezerra" target="_blank">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 
 # Technologies
-
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
