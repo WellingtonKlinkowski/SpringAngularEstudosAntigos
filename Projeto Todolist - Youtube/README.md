@@ -1,4 +1,4 @@
-<div align="center";>
+<div align="center">
 <img src="capagit.jpeg">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5547992814816)
@@ -9,10 +9,10 @@
 
 ## About project
 Estou desenvolvendo uma aplicação web em Spring que tem como idéia principal 
-o cadastro e organização de tarefas (ToDoList).
-Estou usando Lombok, PostgreSql, Validation e JPA Hibernate.
-O projeto será separado em Entities, DTO's, Repositories, Services e Controllers.
-Ao longo do projeto irei decidir se ultilizarei algum tipo de teste, como jUnit ou Mockito.
+o cadastro e organização de tarefas (ToDoList).<br/>
+Estou usando Lombok, PostgreSql, Validation e JPA Hibernate.<br/>
+O projeto será separado em Entities, DTO's, Repositories, Services e Controllers.<br/>
+Ao longo do projeto irei decidir se ultilizarei algum tipo de teste, como jUnit ou Mockito.<br/><br/>
 Fique a vontade para dar seu feedback em umas das redes sociais acima.
 
 ## Video
