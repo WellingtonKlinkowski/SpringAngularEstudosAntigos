@@ -6,9 +6,8 @@ import br.com.wklinkowski.todolist.enums.TipoPrioridade;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import static org.assertj.core.api.Assertions.assertThat;
 
-@SpringBootTest
+@SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 class TodolistApplicationTests {
 
 	@Autowired
@@ -16,7 +15,7 @@ class TodolistApplicationTests {
 
 	@Test
 	void testCreateTodo() {
-		Todo todo = new Todo("Criando tarefa", "Criando teste de criação da todo", false, TipoPrioridade.ALTA);
+		var newTodo = new Todo("Criando tarefa", "Criando teste de criação da todo", false, TipoPrioridade.ALTA);
 
 	}
 
