@@ -1,12 +1,6 @@
 <div align="center";>
 <img src="capagit.jpeg">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5547992814816)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wellimgtomklim@gmail.com)
-[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/wklinkowski)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtonklinkowski/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/welz1ng0d)
-
 ## About project
 Estou desenvolvendo uma aplicação web em Spring que tem como idéia principal a locação de veículos, com cadastros diferentes, diferentes multas e juros para atrasos ou clientes com longo tempo de parceria.
 Estou usando Flyway, Lombok, Validation e JPA Hibernate.
